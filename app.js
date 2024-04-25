@@ -19,7 +19,6 @@
 // })
 
 
-
 //Map
 // var arr = [1,2,3,4];
 // var newarr = arr.map(function (val) {
@@ -27,4 +26,7 @@
 // })
 // console.log(newarr*arr);
 
+
+//Filter
+var arr = [1,2,3,4,3];
 
