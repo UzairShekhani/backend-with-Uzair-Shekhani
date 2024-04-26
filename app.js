@@ -36,3 +36,13 @@
 //     else return false
 // })
 // console.log(ans);
+
+
+// Find => Array me kuch bhi dhondna ka tariqa find ha 
+// var arr = [1,2,3,4,3];
+// var ans = arr.find(function(val){
+//     if(val === 2 )return true
+// })
+// console.log(ans)
+
+
