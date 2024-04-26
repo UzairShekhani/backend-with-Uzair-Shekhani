@@ -7,7 +7,7 @@ Welcome to our Backend Development repository!
 ## Technologies Used 💻
 
 - Programming Languages:
-  - [] JavaScript 🌐
+  - [ ] JavaScript 🌐
   - [ ] Python 🐍
 - Frameworks/Libraries:
   - [ ] Node.js 🟢
