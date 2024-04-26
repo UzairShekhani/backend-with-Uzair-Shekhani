@@ -28,3 +28,7 @@ Welcome to our Backend Development repository!
 1. Clone the repository:
    ```bash
    git clone https://github.com/your/repository.git
+
+   npm install
+
+
