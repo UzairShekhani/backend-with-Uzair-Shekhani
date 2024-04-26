@@ -27,6 +27,12 @@
 // console.log(newarr*arr);
 
 
-//Filter
-var arr = [1,2,3,4,3];
-
+//Filter => kuch cheezon ko rakho kuch cheezon ko hatao this is called filter
+// var arr = [1,2,3,4,3];
+// var ans = arr.filter(function(val) {
+//     if(val > 3){
+//         return  true // return true karna sa appki value new array me put hogi return val nhi karna 
+//     }
+//     else return false
+// })
+// console.log(ans);
