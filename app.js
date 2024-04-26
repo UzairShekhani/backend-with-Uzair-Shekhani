@@ -46,3 +46,11 @@
 // console.log(ans)
 
 
+
+// IndexOf => kisi bhi bumber ka inde x mallom karna ka liye 
+// var arr = [1,2,3,4,3];
+// var ans = arr.indexOf(function (val) {
+//     if(val = 2 ){
+//         return true
+//     }
+// })
