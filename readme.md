@@ -2,7 +2,7 @@
 
 ## Introduction ℹ️
 
-Welcome to our Backend Development repository! This project aims to create robust and efficient backend solutions for our applications.
+Welcome to our Backend Development repository! 
 
 ## Technologies Used 💻
 
@@ -28,3 +28,7 @@ Welcome to our Backend Development repository! This project aims to create robus
 1. Clone the repository:
    ```bash
    git clone https://github.com/your/repository.git
+
+   npm install
+
+
