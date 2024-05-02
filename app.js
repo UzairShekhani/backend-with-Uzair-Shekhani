@@ -7,7 +7,7 @@
 //map
 //filter
 //find
-//indexof
+//inde
 
 //Array =>
 // any kind of value put in this
