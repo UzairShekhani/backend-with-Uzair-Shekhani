@@ -11,7 +11,7 @@
 
 //Array =>
 // any kind of value put in this
-// var arr = [1,2,4,5 ,"hello",true, {} ,function () {
+// var arr =  [1,2,4,5 ,"hello",true, {} ,function () {
 // },[]  ]
 // var arr = [1,2,3,4,3];
 // arr.forEach(function(val) {
