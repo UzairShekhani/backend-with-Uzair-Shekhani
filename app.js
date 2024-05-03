@@ -1,7 +1,7 @@
 //Fundamentals of Javascript :=>
 //Array And Objects
 //Functions return
-//Async Js Coding
+//AsyncJs Coding
 
 //forEach
 //map
