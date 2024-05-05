@@ -12,6 +12,10 @@
 //     u: zair
 // }
 
+// Async
+// async function abcd (){
+//     await fetch(`https://randomuser.me/api`)
+// }
 
 
 
