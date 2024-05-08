@@ -14,7 +14,7 @@ fs.writeFile("hey.txt", "hey hello kaisa ho",function(err) {
     }
 })
 
-//copyfile
+copyfile
 
 //appendfile
 //rename
