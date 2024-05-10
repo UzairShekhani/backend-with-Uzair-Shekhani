@@ -11,6 +11,9 @@ fs.writeFile("hey.txt", "hey hello kaisa ho",function(err) {
     if (err) {
         console.error(err);
     }
+    else{
+        console.log("done");
+    }
 })
 
 //copyfile
