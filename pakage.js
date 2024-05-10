@@ -8,7 +8,9 @@ const fs = require('fs');
 
 fs.writeFile("hey.txt", "hey hello kaisa ho",function(err) {
     // HELLO WORLD
-    
+    if (err) {
+        console.error(err);
+    }
 })
 
 //copyfile
